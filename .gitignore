@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+data/asl_alphabet_train/
+data/asl_alphabet_test/
+models/*.h5
+outputs/*.png
+outputs/logs/
+.DS_Store

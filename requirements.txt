@@ -1,0 +1,7 @@
+tensorflow>=2.16
+opencv-python>=4.9
+mediapipe>=0.10.14
+numpy
+pandas>=2.2
+matplotlib>=3.8
+scikit-learn>=1.4
